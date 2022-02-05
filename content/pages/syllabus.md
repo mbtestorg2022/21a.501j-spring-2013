@@ -26,11 +26,60 @@ We expect students to adhere to MIT's guidelines on academic integrity. Plagiari
 Requirements and Grading
 ------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Participation {{< br >}}{{< br >}} _You must attend class and participate in discussions. Short in-class written assignments and informal oral presentations may be asked of you throughout the semester._ {{< br >}}{{< br >}}  | 15 |
-|  {{< br >}}{{< br >}} Written Assignments {{< br >}}{{< br >}} _You will complete 4 short written assignments during the semester (2 are lab-like write-ups of craft projects)._ {{< br >}}{{< br >}}  | 45 |
-| Final Term Paper | 40 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Participation
+
+_You must attend class and participate in discussions. Short in-class written assignments and informal oral presentations may be asked of you throughout the semester._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Written Assignments
+
+_You will complete 4 short written assignments during the semester (2 are lab-like write-ups of craft projects)._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Term Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further detail on the written assignments and the final term paper, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
