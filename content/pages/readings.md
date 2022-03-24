@@ -325,7 +325,7 @@ Papanek, Victor. "The Best Designers in the World?" Chapter 11 in _The Green Imp
 
 Bonanni, Leonardo, and Amanda Parkes. "[Virtual Guilds: Collective Intelligence and the Future of Craft](http://dx.doi.org/10.2752/174967810X12774789403564)." _Journal of Modern Craft_ 3, no. 2 (2010): 179–90.
 
-Latour, Bruno.![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ["A Cautious Prometheus? A Few Steps Toward a Philosophy of Design (with Special Attention to Peter Sloterdijk)." (PDF)](http://thenewobjectivity.com/pdf/LATOUR.pdf) Keynote lecture for the Networks of Design meeting of the Design History Society, Falmouth, Cornwall, September 3, 2008.
+Latour, Bruno. ["A Cautious Prometheus? A Few Steps Toward a Philosophy of Design (with Special Attention to Peter Sloterdijk)." (PDF)](http://thenewobjectivity.com/pdf/LATOUR.pdf) Keynote lecture for the Networks of Design meeting of the Design History Society, Falmouth, Cornwall, September 3, 2008.
 
 ### Optional
 
@@ -457,7 +457,7 @@ Lupton, Ellen. "Foreword." In _D.I.Y. Design It Yourself_. Edited by Ellen Lupto
 
 Lupton, Julia. "D.I.Y. Theory." In _D.I.Y. Design It Yourself_. Edited by Ellen Lupton. Princeton Architectural Press, 2006. ISBN: 9781568985527. \[Preview with [Google Books](http://books.google.com/books?id=rWuict_SE-8C&pg=PA23=onepage)\]
 
-Rosner, Daniela K., and Kimiko Ryokai.![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ["Spyn: Augmenting the Creative and Communicative Potential of Craft." (PDF - 2.6MB)](http://people.ischool.berkeley.edu/~daniela/spyn/rosner_ryokai_chi2010.pdf) School of Information, University of California, Berkeley. 2010.
+Rosner, Daniela K., and Kimiko Ryokai. ["Spyn: Augmenting the Creative and Communicative Potential of Craft." (PDF - 2.6MB)](http://people.ischool.berkeley.edu/~daniela/spyn/rosner_ryokai_chi2010.pdf) School of Information, University of California, Berkeley. 2010.
 
 Dawkins, Nicole. "[Do-It-Yourself: The Precarious Work and Postfeminist Politics of Handmaking (in) Detroit](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/utopian_studies/v022/22.2.dawkins.html)." _Utopian Studies_ 22, no. 2 (2011): 261–84.
 
@@ -467,7 +467,7 @@ Minahan, Stella, and Julie Wolfram Cox. "[Stitch'nBitch: Cyberfeminism, a Third 
 
 Dilemna, Anna. "[Spynning Stories](http://www.make-digital.com/craft/vol08?pg=34#pg34)." _Craft_ 8 (2008): 32–33.
 
-Rosner, Daniela K., and Kimiko Ryokai. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reflections on Craft: Probing the Creative Process of Everyday Knitters." (PDF)](http://people.ischool.berkeley.edu/~daniela/papers/reflectionsOnCraft-rosner-ryokai.pdf) School of Information, University of California, Berkeley. 2009.
+Rosner, Daniela K., and Kimiko Ryokai. ["Reflections on Craft: Probing the Creative Process of Everyday Knitters." (PDF)](http://people.ischool.berkeley.edu/~daniela/papers/reflectionsOnCraft-rosner-ryokai.pdf) School of Information, University of California, Berkeley. 2009.
 
 
 {{< tdclose >}}
@@ -499,4 +499,4 @@ McBrinn, Joseph. "Handmade Identity: Crafting Design in Ireland from Partition t
 
 Seymour, John. _Forgotten Household Crafts: A Portrait of the Way We Once Lived_. Knopf, 1987. ISBN: 9780394558301.
 
-Greer, Betsy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Taking Back the Knit: Creating Communities via Needlecraft." (PDF - 1.4MB)](http://www.craftivism.com/archives/taking.back.the.knit.pdf) MA thesis, Goldsmiths College, University of London, 2004.
+Greer, Betsy. ["Taking Back the Knit: Creating Communities via Needlecraft." (PDF - 1.4MB)](http://www.craftivism.com/archives/taking.back.the.knit.pdf) MA thesis, Goldsmiths College, University of London, 2004.
